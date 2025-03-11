@@ -1,0 +1,31 @@
+.student-list {
+    text-align: left;
+    margin: 20px;
+  }
+  
+  .student-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .student-list th, .student-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .student-list th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .student-list button {
+    margin-left: 10px;
+  }
+  .student-list  button:hover {
+    border-color: rgb(106, 158, 27);
+    background-color: rgb(120, 148, 77);
+  }
+  .addNew{
+    background-color: rgb(133, 172, 245);
+  }
